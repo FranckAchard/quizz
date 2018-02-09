@@ -18,7 +18,7 @@ public class Quizz {
         
         questions[0] = "quelle est la capitale de la France?";
         reponsesOK[0] = "Paris";
-        questions[1] = "quelle est le meilleur groupe de pop/rock de tous les temps ?";
+        questions[1] = "quel est le meilleur groupe de pop/rock de tous les temps ?";
         reponsesOK[1] = "Beatles";
         questions[2] = "quel est l'âge du capitaine?";
         reponsesOK[2] = "42";

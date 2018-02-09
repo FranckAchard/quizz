@@ -15,6 +15,7 @@ public class Quizz {
         String[] reponsesSaisies = new String[3];
         
         // liste questions et reponses attendues
+        
         questions[0] = "quelle est la capitale de la France?";
         reponsesOK[0] = "Paris";
         questions[1] = "quelle est le meilleur groupe de pop/rock de tous les temps ?";

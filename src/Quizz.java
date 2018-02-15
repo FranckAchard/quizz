@@ -1,5 +1,3 @@
-import java.util.*;
-import java.lang.Math;
 import java.util.Scanner;
 
 public class Quizz {
@@ -28,6 +26,7 @@ public class Quizz {
             }
         }
         System.out.println("Score final = " + score);
+        input.close();
     }
     
     private static boolean questionReponse(String question, String reponseOK) {
@@ -46,4 +45,6 @@ public class Quizz {
         
         return resultat;
     }
+    
+
 }
